@@ -1,1 +1,1 @@
-FRIDAY_THE_AI(Aritificial Intelligence)
+# FRIDAY_THE_AI(Aritificial Intelligence)
