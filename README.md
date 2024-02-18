@@ -1,1 +1,1 @@
-# Jarvis_THE_AI(Aritificial Intelligence)
+# JARVIS_THE_AI(Aritificial Intelligence)
